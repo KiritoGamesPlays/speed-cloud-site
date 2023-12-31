@@ -7,7 +7,7 @@ const Showcase = () => {
   return (
     <>
       <main className="showcase">
-        <h1 className="showcase-header h-color">Speed Host</h1>
+        <h1 className="showcase-header h-color">Speed Cloud</h1>
         <h2 className="showcase-header-text h-color">
           A solução para hospedagem no discord!
         </h2>
