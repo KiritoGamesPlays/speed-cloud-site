@@ -1,0 +1,20 @@
+/* Estilo para o botão */
+.meuBotao {
+    background-color: #7289DA;
+    color: #FFFFFF;
+    border: 1px solid #7289DA;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+@keyframes pulso {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
