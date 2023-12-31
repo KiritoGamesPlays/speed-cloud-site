@@ -8,7 +8,7 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="/">
-                Speed Host 
+                Speed Cloud 
               </Link>
             </li>
           </ul>
